@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @atikwahil
-- 👀 I’m interested in ...knowing new people
-- 🌱 I’m currently learning ...Js
-- 💞️ I’m looking to collaborate on ...UI/UX 
+- 👋 Hi, Im Md.Atikur Rahman 
+- A studne of Software Engineering 
+- 👀 I’m interested in ...Phylosophy of Engineering 
+- 
 - 📫 email me = atikur35-484@diu.edu.bd
 
 <!---
